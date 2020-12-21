@@ -1,14 +1,16 @@
-import Head from 'next/head'
+import Layout from '../components/Layout'
 
 export default function Home() {
   return (
-    <div className="p-6 max-w-sm mx-auto bg-blue-light rounded-xl shadow-md flex items-center space-x-4">
-      <div className="flex-shrink-0">
+    <Layout>
+      <div className="p-6 max-w-sm mx-auto bg-blue-light rounded-xl shadow-md flex items-center space-x-4">
+        <div className="flex-shrink-0">
+        </div>
+        <div>
+          <div className="text-xl font-medium text-text-white font-Lato">ChitChat</div>
+          <p className="text-text-white font-Poppins">You have a new message!</p>
+        </div>
       </div>
-      <div>
-        <div className="text-xl font-medium text-text-white">ChitChat</div>
-        <p className="text-text-white">You have a new message!</p>
-      </div>
-    </div>
+    </Layout>
   )
 }

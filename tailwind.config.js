@@ -16,6 +16,10 @@ module.exports = {
         gray: '#929aab'
       }
     },
+    fontFamily: {
+      'Poppins': ['"Poppins"', 'sans-serif'],
+      'Lato': ['"Lato"', 'sans-serif']
+    }
   },
   variants: {
     extend: {},
