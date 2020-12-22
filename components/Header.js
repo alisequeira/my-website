@@ -22,15 +22,15 @@ export default function Header() {
                         </div>
                     </div>
                     <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">Home</a>
+                        <a href="#" className="font-Puppins text-blue-dark hover:text-blue-light">Home</a>
 
-                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">About me</a>
+                        <a href="#" className="font-Puppins text-blue-dark hover:text-blue-light">About me</a>
 
-                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">Skills</a>
+                        <a href="#" className="font-Puppins text-blue-dark hover:text-blue-light">Skills</a>
 
-                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">Porjects</a>
+                        <a href="#" className="font-Puppins text-blue-dark hover:text-blue-light">Porjects</a>
 
-                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">Contact Me</a>
+                        <a href="#" className="font-Puppins text-blue-dark hover:text-blue-light">Contact Me</a>
                     </div>
                 </nav>
             </div>

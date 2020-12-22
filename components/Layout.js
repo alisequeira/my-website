@@ -16,9 +16,7 @@ function Layout({ children }) {
                 <link rel="preconnect" href="https://fonts.gstatic.com" />
                 <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;1,100;1,300&display=swap" rel="stylesheet"></link>
             </Head>
-            <div className="container">
-                {children}
-            </div>
+            {children}
             <style jsx>{
                 `
                 .container{
