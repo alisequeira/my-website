@@ -3,6 +3,11 @@ body {
     background-color: #f7f7f7;
 }
 
+.about-section{
+    background-image: url('../public/pattern.jpg');
+    background-size: cover;
+    background-repeat: no-repeat
+}
 @tailwind base;
 @tailwind components;
 @tailwind utilities;

@@ -13,13 +13,14 @@ module.exports = {
         white: '#f7f7f7',
         bone: '#eeeeee',
         black: '#393e46',
-        gray: '#929aab'
+        gray: '#929aab',
+        bright: '#ffffff'
       }
     },
     fontFamily: {
       'Poppins': ['"Poppins"', 'sans-serif'],
       'Lato': ['"Lato"', 'sans-serif']
-    }
+    },
   },
   variants: {
     extend: {},
