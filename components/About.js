@@ -1,7 +1,7 @@
 
 export default function About() {
     return (
-        <div className="container mx-auto max-w-full about-section mx-auto">
+        <div className="container mx-auto max-w-full about-section mx-auto bg-fixed" id="about">
             <div className="max-w-7xl mx-auto">
                 <div className="relative z-10 pb-8  sm:pb-16 md:pb-20  mx-auto pt-0.5">
                     <main className="mt-10 mx-auto max-w-7xl px-4 sm:mt-12 sm:px-6 md:mt-16 lg:mt-20 lg:px-8 xl:mt-28 mx-auto">

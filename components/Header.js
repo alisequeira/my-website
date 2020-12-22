@@ -24,7 +24,7 @@ export default function Header() {
                     <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
                         <a href="#" className="font-Poppins text-blue-dark hover:text-blue-light">Home</a>
 
-                        <a href="#" className="font-Poppins text-blue-dark hover:text-blue-light">About me</a>
+                        <a href="#about" className="font-Poppins text-blue-dark hover:text-blue-light">About me</a>
 
                         <a href="#" className="font-Poppins text-blue-dark hover:text-blue-light">Skills</a>
 
@@ -54,7 +54,7 @@ export default function Header() {
                         <div className="px-2 pt-2 pb-3 space-y-1" role="none">
                             <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">Home</a>
 
-                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">About me</a>
+                            <a href="#about" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">About me</a>
 
                             <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">Skills</a>
 
