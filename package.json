@@ -8,6 +8,7 @@
     "start": "next start"
   },
   "dependencies": {
+    "alpinejs": "^2.8.0",
     "autoprefixer": "^10.1.0",
     "next": "10.0.3",
     "postcss": "^8.2.1",
