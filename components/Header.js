@@ -22,15 +22,15 @@ export default function Header() {
                         </div>
                     </div>
                     <div className="hidden md:block md:ml-10 md:pr-4 md:space-x-8">
-                        <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Home</a>
+                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">Home</a>
 
-                        <a href="#" className="font-medium text-gray-500 hover:text-gray-900">About me</a>
+                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">About me</a>
 
-                        <a href="#" className="font-medium text-gray-500 hover:text-gray-900">Skills</a>
+                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">Skills</a>
 
-                        <a href="#" className="font-medium text-indigo-600 hover:text-indigo-500">Porjects</a>
+                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">Porjects</a>
 
-                        <a href="#" className="font-medium text-indigo-600 hover:text-indigo-500">Contact Me</a>
+                        <a href="#" className="font-medium text-blue-dark hover:text-blue-light">Contact Me</a>
                     </div>
                 </nav>
             </div>
@@ -52,16 +52,16 @@ export default function Header() {
                     </div>
                     <div role="menu">
                         <div className="px-2 pt-2 pb-3 space-y-1" role="none">
-                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Home</a>
+                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">Home</a>
 
-                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">About me</a>
+                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">About me</a>
 
-                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Skills</a>
+                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">Skills</a>
 
-                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50" role="menuitem">Porjects</a>
+                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">Projects</a>
                         </div>
                         <div role="none">
-                            <a href="#" className="block w-full px-5 py-3 text-center font-medium text-indigo-600 bg-gray-50 hover:bg-gray-100" role="menuitem">
+                            <a href="#" className="block w-full px-5 py-3 text-center font-medium ext-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">
                                 Contact Me
                             </a>
                         </div>
