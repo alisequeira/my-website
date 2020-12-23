@@ -10,9 +10,9 @@ export default function About() {
                         </div>
                         <div className="lg:flex lg:justify-center">
                             <div className="lg:flex-shrink-0 shadow-xl">
-                                <img className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full rounded-lg" src="https://via.placeholder.com/400x400" alt="" />
+                                <img className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full lg:rounded-bl-lg lg:rounded-tl-lg" src="https://via.placeholder.com/400x400" alt="" />
                             </div>
-                            <div className="p-8 sm:text-left lg:text-left bg-text-bright shadow-xl rounded-lg">
+                            <div className="p-8 sm:text-left lg:text-left bg-text-bright shadow-xl lg:rounded-br-lg lg:rounded-tr-lg">
                                 <div className="uppercase tracking-wide text-xl text-blue-light font-Poppins-bold">Lorem Ipsum</div>
                                 <p className="mt-2 text-text-black font-Lato">
                                     Lorem Ipsum is simply dummy text of the printing and typesetting <br />  industry.Lorem Ipsum has been the industry's
