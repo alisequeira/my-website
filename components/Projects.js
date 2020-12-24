@@ -22,6 +22,13 @@ export default function Projects() {
             description: "Made it full  with JavaScript, html and css. Calculate your expenses of the month or your incomes",
             image: "https://source.unsplash.com/random/200x200",
             link: "https://github.com/alisequeira/complete-javascript-course"
+        },
+        {
+            id: 4,
+            name: "My Website",
+            description: "Well basically I made this haha. I use NEXT.js and Tailwindcss. I made this in my third month as Intern",
+            image: "https://source.unsplash.com/random/200x200",
+            link: "https://github.com/alisequeira/complete-javascript-course"
         }
     ]
     return (
