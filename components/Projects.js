@@ -58,6 +58,7 @@ export default function Projects() {
                                         description={description}
                                         image={image}
                                         link={link}
+                                        id={id}
                                     />
                                 </motion.div>
                             )

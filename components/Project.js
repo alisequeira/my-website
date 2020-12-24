@@ -1,6 +1,6 @@
-export default function Project({ name, description, image, link }) {
+export default function Project({ name, description, image, link, id }) {
     return (
-        <div className="">
+        <div key={id} className="">
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
                 <img src={image} alt=" Project image" className="w-full lg:rounded-lg" />
                 <div className="px-6 py-4 lg:rounded-lg">
