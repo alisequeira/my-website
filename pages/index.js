@@ -2,6 +2,7 @@ import Layout from '../components/Layout'
 import Hero from '../components/Hero'
 import About from '../components/About'
 import Skills from '../components/Skills'
+import Projects from '../components/Projects'
 
 export default function Home() {
   return (
@@ -9,7 +10,7 @@ export default function Home() {
       <Hero />
       <About />
       <Skills />
-      <div className="text-center text-5xl bg-text-bright">Project comming soon</div>
+      <Projects />
     </Layout>
   )
 }

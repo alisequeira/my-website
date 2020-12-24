@@ -28,7 +28,7 @@ export default function Header() {
 
                         <a href="#skills" className="font-Poppins text-blue-dark hover:text-blue-light">Skills</a>
 
-                        <a href="#" className="font-Poppins text-blue-dark hover:text-blue-light">Porjects</a>
+                        <a href="#projects" className="font-Poppins text-blue-dark hover:text-blue-light">Projects</a>
 
                         <a href="#" className="font-Poppins text-blue-dark hover:text-blue-light">Contact Me</a>
                     </div>
@@ -58,7 +58,7 @@ export default function Header() {
 
                             <a href="#skills" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">Skills</a>
 
-                            <a href="#" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">Projects</a>
+                            <a href="#projects" className="block px-3 py-2 rounded-md text-base font-medium text-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">Projects</a>
                         </div>
                         <div role="none">
                             <a href="#" className="block w-full px-5 py-3 text-center font-medium ext-blue-dark hover:text-blue-lightest hover:bg-blue-darker" role="menuitem">
