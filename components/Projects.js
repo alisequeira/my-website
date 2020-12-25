@@ -42,6 +42,7 @@ export default function Projects() {
                         {projects.map(({ id, name, description, image, link }) => {
                             return (
                                 <motion.div
+                                    key={id}
                                     whileHover={{
                                         position: "relative",
                                         zIndex: 1,
