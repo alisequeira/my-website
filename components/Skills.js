@@ -5,9 +5,6 @@ export default function Skills() {
                 <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                     <div className="lg:text-center">
                         <h2 className="text-base text-blue-lightest font-Poppins-bold text-2xl tracking-wide uppercase">Skills</h2>
-                        <p className="mt-2 text-xl leading-8 font-Poppins tracking-tight text-blue-light sm:text-4xl">
-                            Lorem Ipsum is simply dummy text
-                    </p>
                     </div>
 
                     <div className="mt-10">
@@ -25,7 +22,7 @@ export default function Skills() {
                                         Languages
                                     </dt>
                                     <dd className="mt-2 text-base font-Lato-bold text-text-black">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        Currently I’m focusing on building a solid foundation in Javascript.
                                     </dd>
                                 </div>
                             </div>
@@ -43,7 +40,7 @@ export default function Skills() {
                                         Frontend
                                     </dt>
                                     <dd className="mt-2 text-base font-Lato-bold text-text-black">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        HTML5, CSS3, SASS, ReactJS, Redux, TailwindCSS
                                     </dd>
                                 </div>
                             </div>
@@ -61,7 +58,7 @@ export default function Skills() {
                                         Backend
                                     </dt>
                                     <dd className="mt-2 text-base font-Lato-bold text-text-black">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        NodeJS, Express, EJX, MongoDb, NEXT.JS
                                     </dd>
                                 </div>
                             </div>
@@ -79,7 +76,7 @@ export default function Skills() {
                                         Tools
                                     </dt>
                                     <dd className="mt-2 text-base font-Lato-bold text-text-black">
-                                        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.
+                                        git, Webpack, babel
                                     </dd>
                                 </div>
                             </div>

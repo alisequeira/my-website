@@ -36,11 +36,11 @@ export default function hero() {
                                         <span className="block xl:inline">Ali Sequeira</span>
                                     </h1>
                                     <p className="mt-3 text-base text-text-black sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0 font-Lato">
-                                        Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet fugiat veniam occaecat fugiat aliqua.
+                                        I build full stack applications from scratch. Embracing the best practices. Constantly learning new tools and technologies  to upgrade my skillset and delivers the best solution to all the possibles problems.
                                     </p>
                                     <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                                         <div className="rounded-md shadow">
-                                            <a href="#" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-Puppins rounded-md text-text-white bg-blue-lightest hover:bg-blue-dark hover:text-text-white md:py-4 md:text-lg md:px-10">
+                                            <a href="#about" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-Puppins rounded-md text-text-white bg-blue-lightest hover:bg-blue-dark hover:text-text-white md:py-4 md:text-lg md:px-10">
                                                 Get started
                                     </a>
                                         </div>

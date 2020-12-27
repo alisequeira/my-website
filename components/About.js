@@ -13,18 +13,15 @@ export default function About() {
                                 <img className="h-56 w-full object-cover sm:h-72 md:h-96 lg:w-full lg:h-full lg:rounded-bl-lg lg:rounded-tl-lg" src="https://via.placeholder.com/400x400" alt="" />
                             </div>
                             <div className="p-8 sm:text-left lg:text-left bg-text-bright shadow-xl lg:rounded-br-lg lg:rounded-tr-lg">
-                                <div className="uppercase tracking-wide text-xl text-blue-light font-Poppins-bold">Lorem Ipsum</div>
+                                <div className="uppercase tracking-wide text-xl text-blue-light font-Poppins-bold">Hi! I’m Ali Sequeira… </div>
                                 <p className="mt-2 text-text-black font-Lato">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting <br />  industry.Lorem Ipsum has been the industry's
-                                    software like Aldus <br />  PageMaker including versions of Lorem Ip
+                                    I’m from Nicaragua (the land of lakes and volcanoes) <br /> besides software development a huge passion for <br /> movies, soon I hope to star a blog where a can post <br /> my opinions in my favorites movies.
                                 </p>
                                 <p className="mt-2 text-text-black font-Lato">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting <br />  industry.Lorem Ipsum has been the industry's
-                                    software like Aldus <br />  PageMaker including versions of Lorem Ip
+                                    I co-host a podcast in Spanish named: <br /> “La Estacion De Cine” (available on all platform)
                                 </p>
                                 <p className="mt-2 text-text-black font-Lato">
-                                    Lorem Ipsum is simply dummy text of the printing and typesetting <br />  industry.Lorem Ipsum has been the industry's
-                                    software like Aldus <br />  PageMaker including versions of Lorem Ip
+                                    I’m passionate about Javascript’s ecosystem. <br /> I’ve been building projects from vanillaJs <br /> to React, NodeJS, Redux, and NEXT.JS
                                 </p>
                             </div>
                         </div>
