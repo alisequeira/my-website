@@ -15,7 +15,7 @@ export default function About() {
                             <div className="p-8 sm:text-left lg:text-left bg-text-bright shadow-xl lg:rounded-br-lg lg:rounded-tr-lg">
                                 <div className="uppercase tracking-wide text-xl text-blue-light font-Poppins-bold">Hi! I’m Ali Sequeira… </div>
                                 <p className="mt-2 text-text-black font-Lato">
-                                    I’m from Nicaragua (the land of lakes and volcanoes) <br /> besides software development a huge passion for <br /> movies, soon I hope to star a blog where a can post <br /> my opinions in my favorites movies.
+                                    I’m from Nicaragua (the land of lakes and volcanoes) <br /> besides software development I have a huge passion for <br /> movies, soon I hope to star a blog where a can post <br /> my opinions in my favorites movies.
                                 </p>
                                 <p className="mt-2 text-text-black font-Lato">
                                     I co-host a podcast in Spanish named: <br /> “La Estacion De Cine” (available on all platform)
