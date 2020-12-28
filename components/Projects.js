@@ -6,28 +6,28 @@ export default function Projects() {
             id: 1,
             name: "YelpCamp",
             description: "Made it using Nodejs, Express, Ejx and MongoDb. You can store and watch you favorite campground.",
-            image: "https://source.unsplash.com/random/200x200",
+            image: "/yelpcamp-2.png",
             link: "https://github.com/alisequeira/yepCamp"
         },
         {
             id: 2,
             name: "Blogster",
             description: "Made it using React, Nodejs, Express, MongoDb. Storage, Create, Read and Delete blogpost.",
-            image: "https://source.unsplash.com/random/200x200",
+            image: "/blogster.png",
             link: "https://github.com/alisequeira/Blogster"
         },
         {
             id: 3,
             name: "Budgety",
             description: "Made it full  with JavaScript, html and css. Calculate your expenses of the month or your incomes",
-            image: "https://source.unsplash.com/random/200x200",
+            image: "/budgety.png",
             link: "https://github.com/alisequeira/complete-javascript-course"
         },
         {
             id: 4,
             name: "My Website",
             description: "Well basically I made this haha. I use NEXT.js and Tailwindcss. I made this in my third month as Intern",
-            image: "https://source.unsplash.com/random/200x200",
+            image: "/website.png",
             link: "https://github.com/alisequeira/complete-javascript-course"
         }
     ]
