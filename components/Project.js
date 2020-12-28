@@ -1,9 +1,9 @@
-import Image from 'next/image'
+
 export default function Project({ name, description, image, link, id }) {
     return (
         <div key={id} className="">
             <div className="max-w-sm rounded overflow-hidden shadow-lg">
-                <Image src={image} alt=" Project image" className="w-full lg:rounded-lg" width={400} height={200} loading="none" />
+                <img src={image} alt=" Project image" className="w-full lg:rounded-lg imgP" />
                 <div className="px-6 py-4 lg:rounded-lg">
                     <div className="font-Poppins-bold text-blue-light text-xl mb-2">{name}</div>
                     <p className="text-text-black font-Lato-bold">
@@ -12,6 +12,12 @@ export default function Project({ name, description, image, link, id }) {
                     <a href={link} target="_blank" className="font-Poppins text-blue-dark hover:text-blue-lightest">Source Code - </a>
                 </div>
             </div>
+            <style jsx>{`
+                .imgP {
+                    width: 400px;
+                    height: 200px
+                }
+            `}</style>
         </div>
     )
 }
