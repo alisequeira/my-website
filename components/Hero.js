@@ -1,6 +1,5 @@
 import Header from './Header';
 import { motion } from 'framer-motion'
-import Image from 'next/image'
 export default function hero() {
     return (
         <div className="container mx-auto bg-text-white border-text-black">
