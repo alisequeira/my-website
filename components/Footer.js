@@ -22,7 +22,7 @@ export default function Footer() {
                             </a>
                             <h1 className="px-4 text-sm">
                                 Contact Me <br /> alisequeira.la.240@gmail.com
-            </h1>
+                            </h1>
                         </div>
                     </div>
                 </div>
