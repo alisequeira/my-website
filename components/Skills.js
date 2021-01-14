@@ -58,7 +58,7 @@ export default function Skills() {
                                         Backend
                                     </dt>
                                     <dd className="mt-2 text-base font-Lato-bold text-text-black">
-                                        NodeJS, Express, EJX, MongoDb, NEXT.JS
+                                        NodeJS, Express, EJS, MongoDb, NEXT.JS
                                     </dd>
                                 </div>
                             </div>
