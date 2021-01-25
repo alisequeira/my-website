@@ -7,7 +7,7 @@ export default function Footer() {
                     <div className="-mx-4 flex">
                         <h1 className="px-4 text-sm">
                             Copyright © 2021 All rights reserved Ali Sequeira
-                            </h1>
+                        </h1>
                     </div>
                 </div>
             </div>
