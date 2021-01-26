@@ -11,6 +11,7 @@ export default function Contact() {
             <div className="mt-8 sm:mx-auto sm:w-full sm:max-w-md">
                 <div className="bg-text-white py-8 px-4 shadow sm:rounded-lg sm:px-10">
                     <form name="ContactForm" className="space-y-6" method="POST" data-netlify="true" data-netlify-recapcha="true">
+                        <input type="hidden" name="form-name" value="ContactForm" />
                         <div>
                             <label htmlFor="email" className="block text-sm font-Lato-bold text-text-black">
                                 Email address
