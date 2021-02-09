@@ -41,7 +41,7 @@ export default function hero() {
                                     <div className="mt-5 sm:mt-8 sm:flex sm:justify-center lg:justify-start">
                                         <div className="rounded-md shadow">
                                             <a href="#about" className="w-full flex items-center justify-center px-8 py-3 border border-transparent text-base font-Puppins rounded-md text-text-white bg-blue-lightest hover:bg-blue-dark hover:text-text-white md:py-4 md:text-lg md:px-10">
-                                                Get started
+                                                Download my CV
                                     </a>
                                         </div>
                                     </div>

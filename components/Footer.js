@@ -6,7 +6,7 @@ export default function Footer() {
                 <div className="flex mt-4 md:m-0">
                     <div className="-mx-4 flex">
                         <h1 className="px-4 text-sm">
-                            Copyright © 2021 All rights reserved Ali Sequeira
+                            Copyright © 2021 All rights reserved Ali Sequeira.
                         </h1>
                     </div>
                 </div>
